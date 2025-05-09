@@ -26,7 +26,7 @@ This project provides a Python script that loads PDF documents from an `assets` 
 1. Clone this repository:
 
    ```bash
-   git clone [https://github.com/your-username/pdf-summarizer-groq.git](https://github.com/Amir-Hossein-shamsi/PDF-Summarizer)
+   git clone https://github.com/Amir-Hossein-shamsi/PDF-Summarizer.git
    cd pdf-summarizer-groq
    ```
 
